@@ -8,9 +8,9 @@
 ## Git Configuration
 
 ### Repository Setup
-- **GitHub Repository:** [Your repository URL]
+- **GitHub Repository:** https://github.com/Francisvrg/cccs106-projects
 - **Local Repository:** ✅ Initialized and connected
-- **Commit History:** 6 commits with descriptive messages
+- **Commit History:** 8 commits with descriptive messages
 
 ### Git Skills Demonstrated
 - ✅ Repository initialization and configuration
