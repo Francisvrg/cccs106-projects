@@ -56,7 +56,9 @@ One difficulty I encountered was arranging the input fields neatly on the interf
 From this activity, I learned the importance of version control in keeping track of code changes, avoiding conflicts, and safely experimenting with new features using tools like Git. In GUI development, I gained a better understanding of how layout management, event handling, and input validation work together to create a functional and user-friendly interface.
 
 ## Screenshots
-![Hello_Flet](Hello_Flet.png)
+
+<img width="500" height="800" alt="Hello_Flet" src="https://github.com/user-attachments/assets/e6f1e9a9-fe42-4100-bed5-ca2aa3e74fa5" />
+<img width="500" height="800" alt="Personal_Info_GUI" src="https://github.com/user-attachments/assets/17bda10d-765c-41af-9112-ffa02a0e6734" />
 
 ### Git Repository
 - ✅ GitHub repository with commit history
